@@ -15,4 +15,5 @@ class Dog
     @@all.each do |dog_name|
       dogs_name << dog_name
     end
+    puts dog_names
 end
