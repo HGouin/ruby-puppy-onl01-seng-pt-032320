@@ -6,6 +6,9 @@ class Dog
     @@all << self
   end
 
+  def name
+    @name
+
   def self.all
     @@all
   end
