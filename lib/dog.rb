@@ -15,7 +15,6 @@ class Dog
   end
 
 def self.print_all
-  every_dog = []
   puts "#{name}"
 end
 end
