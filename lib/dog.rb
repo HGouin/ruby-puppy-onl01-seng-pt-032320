@@ -19,4 +19,10 @@ class Dog
       puts "#{dog.name}"
     end
   end
+
+  def save
+  end
+
+  def self.clear_all
+  end
 end
